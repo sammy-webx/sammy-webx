@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Js, Node Js, Vue Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sammy-webx/smmyfolio.github.io](https://github.com/sammy-webx/smmyfolio.github.io)
+- 👨‍💻 All of my projects are available at [https://sammy-webx.github.io/smmyfolio/)
 
 - 💬 Ask me about **Wordpress, PHP, logics**
 
